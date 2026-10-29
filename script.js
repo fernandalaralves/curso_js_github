@@ -1,9 +1,9 @@
 AOS.init();
 
 const frases = [
-  "No meu funciona...",
-  "Café + Código = Vida.",
-  "Não é um bug, é uma feature"
+  "Não aperte nesse botão novamente.",
+  "Você não vai achar isso legal.",
+  "ado ado ado, quem apertou mais de duas vezes é..."
 ];
 
 const botao = document.getElementById("botao-magico");
